@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://omni-ai-creator--socialqualy11.replit.app/$1",
+      "permanent": false
+    }
+  ]
+}
